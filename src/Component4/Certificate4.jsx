@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Certificate5 = () => {
+const Certificate4 = () => {
   return (
     <div className="flex justify-center align-middle ml-80 space-x-5 h-[80vh] w-[110vh]">
       <div
@@ -53,4 +53,4 @@ const Certificate5 = () => {
   );
 };
 
-export default Certificate5;
+export default Certificate4;

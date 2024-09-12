@@ -20,11 +20,12 @@ const Certificate2 = () => {
         <p className="text-lg text-blue-600 ">Lorem ipsum dolor, sit amet consectetur adipisicing  maxime tempora itaque expedita voluptates voluptatem. Deserunt soluta ducimus nostrum, pariatur cupiditate nesciunt facere iure molestiae?</p>
       </div>
     
-      <div className="flex justify-between mt-4">
+      <div className="flex justify-evenly mt-2">
         <div className="tect-black">
         <p className="text-md text-blue-600">_____________</p>
           <p className="text-md text-center text-blue-600"> Date:</p>
         </div>
+        <div className="content-center h-20 w-20" style={{backgroundImage:"url(img/image2i.png)", backgroundPosition: "center",backgroundSize: "cover", }}></div>
         <div className="">
         <p className="text-md text-blue-600">_____________</p>
           <p className="text-md text-center text-blue-600">Signature:</p>
